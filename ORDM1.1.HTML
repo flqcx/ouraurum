@@ -37,11 +37,11 @@
             Одно из важных свойств золота - его плотность (количество массы в единице объема этого вещества). Плотность золота составляет 19,3 грамма в кубическом сантиметре. Золото весит примерно в 19 раз больше, чем равный объем воды.
             Вы можете сами убедиться в огромной разнице плотностей, взглянув на килограммовый слиток золота и килограмм воды.</p>
         
-        <img src="IMG_water.JPG" alt="куб воды">
-        <img src="IMG_ingots.JPG" alt="слитки">
+        <img src="C:\Users\я\Downloads\Telegram Desktop\IMG_water.jpg" alt="куб воды">
+        <img src="C:\Users\я\Downloads\Telegram Desktop\IMG_ingots.jpg" alt="слитки">
         
         <audio controls>
-            <source src="ordmplotnost.MP3" type="audio/mpeg">
+            <source src="C:\Users\я\Downloads\ordmplotnost.mp3" type="audio/mpeg">
             Ваш браузер не поддерживает аудиоплеер.
         </audio>
     </div>
