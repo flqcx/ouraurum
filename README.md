@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +41,7 @@
         <img src="IMG_ingots.JPG" alt="слитки">
         
         <audio controls>
-            <source src="Users\я\Downloads\ordmplotnost.MP3" type="audio/MPEG">
+            <source src="ordmplotnost.MP3" type="audio/mpeg">
             Ваш браузер не поддерживает аудиоплеер.
         </audio>
     </div>
